@@ -1,0 +1,6 @@
+<% # File: app/views/auth/index.html.erb %>
+<% unless @screen_name.blank? %>
+  You are logged in as <%= @screen_name %>
+<% else %>
+  <%= link_to 'Sign in with Twitter', @url %>
+<% end %>

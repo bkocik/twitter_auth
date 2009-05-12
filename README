@@ -1,0 +1,6 @@
+This is just an example application to demonstrate my methods for testing
+an app that uses Twitter's OAuth with Cucumber, FakeWeb, and Webrat.
+
+The tutorial that develops this app can be found here:
+
+http://bkocik.net/2009/05/11/testing-twitter-oauth-with-cucumber-webrat-and-fakeweb
